@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "「紅葉」（MV）",
+  "base_artist": "陰陽座",
+  "createdAt": "2026-02-07T14:06:28.335837Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紅葉",
+      "artist": "陰陽座",
+      "has_synced": false,
+      "path": "select/pl_01_紅葉_陰陽座.txt"
+    }
+  ]
+}
